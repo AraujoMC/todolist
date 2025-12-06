@@ -1,4 +1,4 @@
-package ara.com.aula.errors;
+package ara.com.todolist.errors;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;

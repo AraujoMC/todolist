@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ara.com</groupId>
-	<artifactId>aula</artifactId>
+	<artifactId>todolist</artifactId>
 	<version>0.0.1</version>
 	<name>aula</name>
 	<description>Demo project for Spring Boot</description>

@@ -1,4 +1,4 @@
-package ara.com.aula.filter;
+package ara.com.todolist.filter;
 
 import java.io.IOException;
 import java.util.Base64;
@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
-import ara.com.aula.repository.IUserRepository;
+import ara.com.todolist.repository.IUserRepository;
 import at.favre.lib.crypto.bcrypt.BCrypt;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

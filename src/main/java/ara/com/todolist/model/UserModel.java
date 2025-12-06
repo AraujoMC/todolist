@@ -1,4 +1,4 @@
-package ara.com.aula.model;
+package ara.com.todolist.model;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

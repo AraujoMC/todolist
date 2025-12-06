@@ -1,11 +1,11 @@
-package ara.com.aula.controller;
+package ara.com.todolist.controller;
 
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import ara.com.aula.model.UserModel;
-import ara.com.aula.repository.IUserRepository;
+import ara.com.todolist.model.UserModel;
+import ara.com.todolist.repository.IUserRepository;
 import at.favre.lib.crypto.bcrypt.BCrypt;
 
 import org.springframework.beans.factory.annotation.Autowired;

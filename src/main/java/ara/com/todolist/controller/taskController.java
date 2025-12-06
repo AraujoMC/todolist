@@ -1,11 +1,11 @@
-package ara.com.aula.controller;
+package ara.com.todolist.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import ara.com.aula.model.TaskModel;
-import ara.com.aula.repository.ITaskRepository;
-import ara.com.aula.utils.Utils;
+import ara.com.todolist.model.TaskModel;
+import ara.com.todolist.repository.ITaskRepository;
+import ara.com.todolist.utils.Utils;
 import jakarta.servlet.http.HttpServletRequest;
 
 import java.time.LocalDateTime;
